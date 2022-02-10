@@ -44,10 +44,10 @@
 </p>
 
 ## 📊 My Github Stats
-<p>
+<p align="center">
   <br/>
-    <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="GitHub-dev12345 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-dev12345&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" align="left" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%"/ ></a>
+    <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="GitHub-dev12345 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-dev12345&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
 </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
