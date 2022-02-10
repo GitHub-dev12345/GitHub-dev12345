@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNBV_7W2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/3dso9dv9loxkft0cee4c.jpg" width="50%" /></a>
+<a href="#"><img width="100%" height="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNBV_7W2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/3dso9dv9loxkft0cee4c.jpg" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev Rathore</h1>
 <h3 align="center">I'm a Passionate Front-end Developer from India.</h3>
@@ -80,20 +80,12 @@
 
 <br/>
 <br/>
-<p align="center">
-  <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Card-Billionare-Site-" width="40%" />
+<p>
+  <a  href="https://github.com/GitHub-dev12345/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Card-Billionare-Site-"  width="50%" align="left"  />
   </a>
-  <a href="https://github.com/GitHub-dev12345/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Education-Website-Project" width="40%"/>
+  <a href="https://github.com/GitHub-dev12345/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Education-Website-Project" width="50%" align="right"/>
   </a>
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Single-price-grid-component" width="40%" />
-  </a>
-  <a href="https://github.com/GitHub-dev12345/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=WIndows11-Clone-Project " width="40%"/>
-  </a>
-</p>
