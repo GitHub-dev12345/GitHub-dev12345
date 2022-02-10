@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNBV_7W2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/3dso9dv9loxkft0cee4c.jpg" /></a>
+<a href="#"><img width="100%" height="350px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNBV_7W2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/3dso9dv9loxkft0cee4c.jpg" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev Rathore</h1>
 <h3 align="center">I'm a Passionate Front-end Developer from India.</h3>
