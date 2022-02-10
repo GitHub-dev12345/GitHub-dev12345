@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNBV_7W2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/3dso9dv9loxkft0cee4c.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNBV_7W2--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/3dso9dv9loxkft0cee4c.jpg" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev Rathore</h1>
 <h3 align="center">I'm a Passionate Front-end Developer from India.</h3>
@@ -41,15 +41,16 @@
 
 <p align="center">
     <a href="https://github.com/GitHub-dev12345/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-dev12345&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GitHub-dev12345&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="70%"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
-    <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="GitHub-dev12345 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-dev12345&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="GitHub-dev12345 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-dev12345&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="70%"/></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="70%" /></a>
+</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
