@@ -80,12 +80,3 @@
 
 <br/>
 <br/>
-<p align="center">
-  <a  href="https://github.com/GitHub-dev12345/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Card-Billionare-Site-"  width="45%"  />
-  </a>
-  <a href="https://github.com/GitHub-dev12345/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Education-Website-Project" width="45%" />
-  </a>
-</p>
-
-<br/>
