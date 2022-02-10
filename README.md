@@ -47,7 +47,7 @@
 <p align="left">
   <br/>
     <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="GitHub-dev12345 Github Stats" src="https://github-readme-stats.vercel.app/api?username=GitHub-dev12345&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%"/></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GitHub-dev12345 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-dev12345&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%" align="right"/></a>
 </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -58,7 +58,6 @@
 
 <a href="https://github.com/GitHub-dev12345 /github-readme-activity-graph"><img alt="GitHub-dev12345 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitHub-dev12345&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me:
@@ -78,3 +77,23 @@
     <img src="https://komarev.com/ghpvc/?username=GitHub-dev12345">
 </a>
 <a href="https://github.com/GitHub-dev12345?tab=followers"><img src="https://img.shields.io/github/followers/GitHub-dev12345?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
+<br/>
+<p>
+  <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Card-Billionare-Site-" width="50%" />
+  </a>
+  <a href="https://github.com/GitHub-dev12345/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Education-Website-Project" width="50%"/>
+  </a>
+</p>
+
+<br/>
+
+<p>
+  <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=Single-price-grid-component" width="50%" />
+  </a>
+  <a href="https://github.com/GitHub-dev12345/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GitHub-dev12345&repo=WIndows11-Clone-Project " width="50%"/>
+  </a>
+</p>
