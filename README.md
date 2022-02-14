@@ -15,6 +15,8 @@
 
 - 🔍 Take a look at my projects on Frontend Mentor! **[Frontend Mentor](https://www.frontendmentor.io/profile/GitHub-dev12345)**
 
+- 🚀 My Link tree **[Tree of all platfrom ](https://linktr.ee/Dev_Rathore)**
+
 - 📫 How to reach me **devrathore986@gmail.com**
 
 - ⚡ Fun fact **I Explore new things or innovative, and learn new technologies.**
