@@ -13,7 +13,7 @@
 - 🔭 Working on becoming a software engineer 
 - 🌱 Currently teaching myself web development
 
-- 🌱 I’m currently learning **Reactjs & Python**
+- 🚀 I’m currently learning **Reactjs & Python & TailwindCSS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
