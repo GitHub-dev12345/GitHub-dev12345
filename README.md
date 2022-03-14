@@ -11,6 +11,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Working on becoming a software engineer 
+
 - 🌱 Currently teaching myself web development
 
 - 🚀 I’m currently learning **Reactjs & TailwindCSS**
