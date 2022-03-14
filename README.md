@@ -42,6 +42,9 @@
 
 <br/>
 <p>I love exploring and learning new technology & I enjoy solving the problem of other projects and contributing to open source projects, as well as answering questions in forums and helping people with code. I am trying to make my best version to provide some services for my family and society to make a happy world.</p>
+
+
+<p>I love History, And learn new Mysterious histories </p>
 <br/>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Sass Badge](https://img.shields.io/badge/-sass-007acc?style=for-the-badge&labelColor=black&logo=sass&logoColor=pink)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![github Badge](https://img.shields.io/badge/-github-e535ab?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
