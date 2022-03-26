@@ -93,9 +93,6 @@ I am trying to make my best version to provide some services for my family and s
 <a href = "https://twitter.com/DevRath57659120"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/imarjunrathore12345/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://codepen.io/devrathore"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
-<!-- <a href = "https://www.freecodecamp.org/Devra1234"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-filled-tal-revivo.png"/></a> -->
-
-
 </p>
 
 ## ❤ Views and Followers
