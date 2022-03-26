@@ -1,7 +1,10 @@
 
 <p align="center">
     <a href="#">
-        <img  alt="Poster" src="./images/Groot%20Minimalistic%204K%20wallpaper.jpg" width="75%"/>
+        <img  alt="Poster" src="./images/Groot%20Minimalistic%204K%20wallpaper.jpg" width="40%"/>
+    </a>
+        <a href="#">
+        <img  alt="Poster" src="./images/react.png" width="40%"/>
     </a>
 </p>
 
