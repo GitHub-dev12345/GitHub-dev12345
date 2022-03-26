@@ -47,7 +47,9 @@
 </p>
 
 <br/>
-<p>I love exploring and learning new technology & I enjoy solving the problem of other projects and contributing to open source projects, as well as answering questions in forums and helping people with code. I am trying to make my best version to provide some services for my family and society to make a happy world.</p>
+<p>I love exploring and learning new technology & I enjoy solving the problem of other projects and contributing to open source projects, as well as answering questions in forums and helping people with code.
+
+I am trying to make my best version to provide some services for my family and society to make a happy world.</p>
 
 
 <p>I love History, And learn new Mysterious histories </p>
