@@ -82,7 +82,7 @@ I am trying to make my best version to provide some services for my family and s
 <br/>
 <br/>
 
-<a href="https://github.com/GitHub-dev12345 /github-readme-activity-graph"><img alt="GitHub-dev12345 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GitHub-dev12345&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/GitHub-dev12345 /github-readme-activity-graph"><img alt="GitHub-dev12345 Activity Graph" width="100%"  src="https://activity-graph.herokuapp.com/graph?username=GitHub-dev12345&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
