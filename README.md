@@ -19,7 +19,7 @@
 
 - 🌱 Currently teaching myself web development
 
-- 🚀 I’m currently learning **Reactjs & TailwindCSS**
+- 🚀 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
