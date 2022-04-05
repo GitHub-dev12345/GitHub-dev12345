@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working on becoming a software engineer 
+- 🔭 Working on becoming a software engineer & Frontend Developer.
 
 - 🌱 Currently teaching myself web development
 
