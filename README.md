@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **devrathore986@gmail.com**
 
-- ⚡ Fun fact **I Explore new things or innovative, and learn new technologies. & I Love History and historics places.**
+- ⚡ Fun fact **I Explore new things or innovative, and learn new technologies. & I Love History and love solve the mysterious history.**
 <hr/>
 
 ## 🚀 Languages and Tools:
